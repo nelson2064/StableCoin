@@ -2,7 +2,7 @@
 
 <h1>Description</h1>
 
-<p>StableCoin is an implementation of a stablecoin on the Ethereum blockchain, designed to maintain a stable value 
+<p>A stablecoin is a type of cryptocurrency that is designed to maintain a stable value relative to a specific asset or currency, such as the US dollar or gold.
 </p>
 
 <h2>Usage</h2>
